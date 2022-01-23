@@ -1,0 +1,176 @@
+NAME,NAME_LONG,ABBREV,FORMAL_EN,POP_EST,POP_RANK,GDP_MD_EST,POP_YEAR,GDP_YEAR,ISO_A2,ISO3,CONTINENT,REGION_UN,SUBREGION
+Algeria,Algeria,Alg.,People's Democratic Republic of Algeria,40969443,15,609400.0,2017,2016,DZ,DZA,Africa,Africa,Northern Africa
+Angola,Angola,Ang.,People's Republic of Angola,29310273,15,189000.0,2017,2016,AO,AGO,Africa,Africa,Middle Africa
+Benin,Benin,Benin,Republic of Benin,11038805,14,24310.0,2017,2016,BJ,BEN,Africa,Africa,Western Africa
+Botswana,Botswana,Bwa.,Republic of Botswana,2214858,12,35900.0,2017,2016,BW,BWA,Africa,Africa,Southern Africa
+Burkina Faso,Burkina Faso,B.F.,Burkina Faso,20107509,15,32990.0,2017,2016,BF,BFA,Africa,Africa,Western Africa
+Burundi,Burundi,Bur.,Republic of Burundi,11466756,14,7892.0,2017,2016,BI,BDI,Africa,Africa,Eastern Africa
+Cameroon,Cameroon,Cam.,Republic of Cameroon,24994885,15,77240.0,2017,2016,CM,CMR,Africa,Africa,Middle Africa
+Central African Rep.,Central African Republic,C.A.R.,Central African Republic,5625118,13,3206.0,2017,2016,CF,CAF,Africa,Africa,Middle Africa
+Chad,Chad,Chad,Republic of Chad,12075985,14,30590.0,2017,2016,TD,TCD,Africa,Africa,Middle Africa
+Congo,Republic of the Congo,Rep. Congo,Republic of the Congo,4954674,12,30270.0,2017,2016,CG,COG,Africa,Africa,Middle Africa
+CÃ´te d'Ivoire,CÃ´te d'Ivoire,I.C.,Republic of Ivory Coast,24184810,15,87120.0,2017,2016,CI,CIV,Africa,Africa,Western Africa
+Dem. Rep. Congo,Democratic Republic of the Congo,D.R.C.,Democratic Republic of the Congo,83301151,16,66010.0,2017,2016,CD,COD,Africa,Africa,Middle Africa
+Djibouti,Djibouti,Dji.,Republic of Djibouti,865267,11,3345.0,2017,2016,DJ,DJI,Africa,Africa,Eastern Africa
+Egypt,Egypt,Egypt,Arab Republic of Egypt,97041072,16,1105000.0,2017,2016,EG,EGY,Africa,Africa,Northern Africa
+Eq. Guinea,Equatorial Guinea,Eq. G.,Republic of Equatorial Guinea,778358,11,31770.0,2017,2016,GQ,GNQ,Africa,Africa,Middle Africa
+Eritrea,Eritrea,Erit.,State of Eritrea,5918919,13,9169.0,2017,2016,ER,ERI,Africa,Africa,Eastern Africa
+Ethiopia,Ethiopia,Eth.,Federal Democratic Republic of Ethiopia,105350020,17,174700.0,2017,2016,ET,ETH,Africa,Africa,Eastern Africa
+Gabon,Gabon,Gabon,Gabonese Republic,1772255,12,35980.0,2017,2016,GA,GAB,Africa,Africa,Middle Africa
+Gambia,The Gambia,Gambia,Republic of the Gambia,2051363,12,3387.0,2017,2016,GM,GMB,Africa,Africa,Western Africa
+Ghana,Ghana,Ghana,Republic of Ghana,27499924,15,120800.0,2017,2016,GH,GHA,Africa,Africa,Western Africa
+Guinea,Guinea,Gin.,Republic of Guinea,12413867,14,16080.0,2017,2016,GN,GIN,Africa,Africa,Western Africa
+Guinea-Bissau,Guinea-Bissau,GnB.,Republic of Guinea-Bissau,1792338,12,2851.0,2017,2016,GW,GNB,Africa,Africa,Western Africa
+Kenya,Kenya,Ken.,Republic of Kenya,47615739,15,152700.0,2017,2016,KE,KEN,Africa,Africa,Eastern Africa
+Lesotho,Lesotho,Les.,Kingdom of Lesotho,1958042,12,6019.0,2017,2016,LS,LSO,Africa,Africa,Southern Africa
+Liberia,Liberia,Liberia,Republic of Liberia,4689021,12,3881.0,2017,2016,LR,LBR,Africa,Africa,Western Africa
+Libya,Libya,Libya,Libya,6653210,13,90890.0,2017,2016,LY,LBY,Africa,Africa,Northern Africa
+Madagascar,Madagascar,Mad.,Republic of Madagascar,25054161,15,36860.0,2017,2016,MG,MDG,Africa,Africa,Eastern Africa
+Malawi,Malawi,Mal.,Republic of Malawi,19196246,14,21200.0,2017,2016,MW,MWI,Africa,Africa,Eastern Africa
+Mali,Mali,Mali,Republic of Mali,17885245,14,38090.0,2017,2016,ML,MLI,Africa,Africa,Western Africa
+Mauritania,Mauritania,Mrt.,Islamic Republic of Mauritania,3758571,12,16710.0,2017,2016,MR,MRT,Africa,Africa,Western Africa
+Morocco,Morocco,Mor.,Kingdom of Morocco,33986655,15,282800.0,2017,2016,MA,MAR,Africa,Africa,Northern Africa
+Mozambique,Mozambique,Moz.,Republic of Mozambique,26573706,15,35010.0,2017,2016,MZ,MOZ,Africa,Africa,Eastern Africa
+Namibia,Namibia,Nam.,Republic of Namibia,2484780,12,25990.0,2017,2016,NA,NAM,Africa,Africa,Southern Africa
+Niger,Niger,Niger,Republic of Niger,19245344,14,20150.0,2017,2016,NE,NER,Africa,Africa,Western Africa
+Nigeria,Nigeria,Nigeria,Federal Republic of Nigeria,190632261,17,1089000.0,2017,2016,NG,NGA,Africa,Africa,Western Africa
+Rwanda,Rwanda,Rwa.,Republic of Rwanda,11901484,14,21970.0,2017,2016,RW,RWA,Africa,Africa,Eastern Africa
+S. Sudan,South Sudan,S. Sud.,Republic of South Sudan,13026129,14,20880.0,2017,2016,SS,SSD,Africa,Africa,Eastern Africa
+Senegal,Senegal,Sen.,Republic of Senegal,14668522,14,39720.0,2017,2016,SN,SEN,Africa,Africa,Western Africa
+Sierra Leone,Sierra Leone,S.L.,Republic of Sierra Leone,6163195,13,10640.0,2017,2016,SL,SLE,Africa,Africa,Western Africa
+Somalia,Somalia,Som.,Federal Republic of Somalia,7531386,13,4719.0,2017,2016,SO,SOM,Africa,Africa,Eastern Africa
+South Africa,South Africa,S.Af.,Republic of South Africa,54841552,16,739100.0,2017,2016,ZA,ZAF,Africa,Africa,Southern Africa
+Sudan,Sudan,Sudan,Republic of the Sudan,37345935,15,176300.0,2017,2016,SD,SDN,Africa,Africa,Northern Africa
+Swaziland,Swaziland,Swz.,Kingdom of Swaziland,1467152,12,11060.0,2017,2016,SZ,SWZ,Africa,Africa,Southern Africa
+Tanzania,Tanzania,Tanz.,United Republic of Tanzania,53950935,16,150600.0,2017,2016,TZ,TZA,Africa,Africa,Eastern Africa
+Togo,Togo,Togo,Togolese Republic,7965055,13,11610.0,2017,2016,TG,TGO,Africa,Africa,Western Africa
+Tunisia,Tunisia,Tun.,Republic of Tunisia,11403800,14,130800.0,2017,2016,TN,TUN,Africa,Africa,Northern Africa
+Uganda,Uganda,Uga.,Republic of Uganda,39570125,15,84930.0,2017,2016,UG,UGA,Africa,Africa,Eastern Africa
+W. Sahara,Western Sahara,W. Sah.,Sahrawi Arab Democratic Republic,603253,11,906.5,2017,2007,EH,ESH,Africa,Africa,Northern Africa
+Zambia,Zambia,Zambia,Republic of Zambia,15972000,14,65170.0,2017,2016,ZM,ZMB,Africa,Africa,Eastern Africa
+Zimbabwe,Zimbabwe,Zimb.,Republic of Zimbabwe,13805084,14,28330.0,2017,2016,ZW,ZWE,Africa,Africa,Eastern Africa
+Antarctica,Antarctica,Ant.,,4050,4,810.0,2013,2013,AQ,ATA,Antarctica,Antarctica,Antarctica
+Afghanistan,Afghanistan,Afg.,Islamic State of Afghanistan,34124811,15,64080.0,2017,2016,AF,AFG,Asia,Asia,Southern Asia
+Armenia,Armenia,Arm.,Republic of Armenia,3045191,12,26300.0,2017,2016,AM,ARM,Asia,Asia,Western Asia
+Azerbaijan,Azerbaijan,Aze.,Republic of Azerbaijan,9961396,13,167900.0,2017,2016,AZ,AZE,Asia,Asia,Western Asia
+Bangladesh,Bangladesh,Bang.,People's Republic of Bangladesh,157826578,17,628400.0,2017,2016,BD,BGD,Asia,Asia,Southern Asia
+Bhutan,Bhutan,Bhutan,Kingdom of Bhutan,758288,11,6432.0,2017,2016,BT,BTN,Asia,Asia,Southern Asia
+Brunei,Brunei Darussalam,Brunei,Negara Brunei Darussalam,443593,10,33730.0,2017,2016,BN,BRN,Asia,Asia,South-Eastern Asia
+Cambodia,Cambodia,Camb.,Kingdom of Cambodia,16204486,14,58940.0,2017,2016,KH,KHM,Asia,Asia,South-Eastern Asia
+China,China,China,People's Republic of China,1379302771,18,21140000.0,2017,2016,CN,CHN,Asia,Asia,Eastern Asia
+Cyprus,Cyprus,Cyp.,Republic of Cyprus,1221549,12,29260.0,2017,2016,CY,CYP,Asia,Asia,Western Asia
+Georgia,Georgia,Geo.,Georgia,4926330,12,37270.0,2017,2016,GE,GEO,Asia,Asia,Western Asia
+India,India,India,Republic of India,1281935911,18,8721000.0,2017,2016,IN,IND,Asia,Asia,Southern Asia
+Indonesia,Indonesia,Indo.,Republic of Indonesia,260580739,17,3028000.0,2017,2016,ID,IDN,Asia,Asia,South-Eastern Asia
+Iran,Iran,Iran,Islamic Republic of Iran,82021564,16,1459000.0,2017,2016,IR,IRN,Asia,Asia,Southern Asia
+Iraq,Iraq,Iraq,Republic of Iraq,39192111,15,596700.0,2017,2016,IQ,IRQ,Asia,Asia,Western Asia
+Israel,Israel,Isr.,State of Israel,8299706,13,297000.0,2017,2016,IL,ISR,Asia,Asia,Western Asia
+Japan,Japan,Japan,Japan,126451398,17,4932000.0,2017,2016,JP,JPN,Asia,Asia,Eastern Asia
+Jordan,Jordan,Jord.,Hashemite Kingdom of Jordan,10248069,14,86190.0,2017,2016,JO,JOR,Asia,Asia,Western Asia
+Kazakhstan,Kazakhstan,Kaz.,Republic of Kazakhstan,18556698,14,460700.0,2017,2016,KZ,KAZ,Asia,Asia,Central Asia
+Kuwait,Kuwait,Kwt.,State of Kuwait,2875422,12,301100.0,2017,2016,KW,KWT,Asia,Asia,Western Asia
+Kyrgyzstan,Kyrgyzstan,Kgz.,Kyrgyz Republic,5789122,13,21010.0,2017,2016,KG,KGZ,Asia,Asia,Central Asia
+Laos,Lao PDR,Laos,Lao People's Democratic Republic,7126706,13,40960.0,2017,2016,LA,LAO,Asia,Asia,South-Eastern Asia
+Lebanon,Lebanon,Leb.,Lebanese Republic,6229794,13,85160.0,2017,2016,LB,LBN,Asia,Asia,Western Asia
+Malaysia,Malaysia,Malay.,Malaysia,31381992,15,863000.0,2017,2016,MY,MYS,Asia,Asia,South-Eastern Asia
+Mongolia,Mongolia,Mong.,Mongolia,3068243,12,37000.0,2017,2016,MN,MNG,Asia,Asia,Eastern Asia
+Myanmar,Myanmar,Myan.,Republic of the Union of Myanmar,55123814,16,311100.0,2017,2016,MM,MMR,Asia,Asia,South-Eastern Asia
+Nepal,Nepal,Nepal,Nepal,29384297,15,71520.0,2017,2016,NP,NPL,Asia,Asia,Southern Asia
+North Korea,Dem. Rep. Korea,N.K.,Democratic People's Republic of Korea,25248140,15,40000.0,2013,2016,KP,PRK,Asia,Asia,Eastern Asia
+Oman,Oman,Oman,Sultanate of Oman,3424386,12,173100.0,2017,2016,OM,OMN,Asia,Asia,Western Asia
+Pakistan,Pakistan,Pak.,Islamic Republic of Pakistan,204924861,17,988200.0,2017,2016,PK,PAK,Asia,Asia,Southern Asia
+Palestine,Palestine,Pal.,West Bank and Gaza,4543126,12,21220.77,2017,2016,PS,PSE,Asia,Asia,Western Asia
+Philippines,Philippines,Phil.,Republic of the Philippines,104256076,17,801900.0,2017,2016,PH,PHL,Asia,Asia,South-Eastern Asia
+Qatar,Qatar,Qatar,State of Qatar,2314307,12,334500.0,2017,2016,QA,QAT,Asia,Asia,Western Asia
+Saudi Arabia,Saudi Arabia,Saud.,Kingdom of Saudi Arabia,28571770,15,1731000.0,2017,2016,SA,SAU,Asia,Asia,Western Asia
+South Korea,Republic of Korea,S.K.,Republic of Korea,51181299,16,1929000.0,2017,2016,KR,KOR,Asia,Asia,Eastern Asia
+Sri Lanka,Sri Lanka,Sri L.,Democratic Socialist Republic of Sri Lanka,22409381,15,236700.0,2017,2016,LK,LKA,Asia,Asia,Southern Asia
+Syria,Syria,Syria,Syrian Arab Republic,18028549,14,50280.0,2017,2015,SY,SYR,Asia,Asia,Western Asia
+Taiwan,Taiwan,Taiwan,,23508428,15,1127000.0,2017,2016,TW,TWN,Asia,Asia,Eastern Asia
+Tajikistan,Tajikistan,Tjk.,Republic of Tajikistan,8468555,13,25810.0,2017,2016,TJ,TJK,Asia,Asia,Central Asia
+Thailand,Thailand,Thai.,Kingdom of Thailand,68414135,16,1161000.0,2017,2016,TH,THA,Asia,Asia,South-Eastern Asia
+Timor-Leste,Timor-Leste,T.L.,Democratic Republic of Timor-Leste,1291358,12,4975.0,2017,2016,TL,TLS,Asia,Asia,South-Eastern Asia
+Turkey,Turkey,Tur.,Republic of Turkey,80845215,16,1670000.0,2017,2016,TR,TUR,Asia,Asia,Western Asia
+Turkmenistan,Turkmenistan,Turkm.,Turkmenistan,5351277,13,94720.0,2017,2016,TM,TKM,Asia,Asia,Central Asia
+United Arab Emirates,United Arab Emirates,U.A.E.,United Arab Emirates,6072475,13,667200.0,2017,2016,AE,ARE,Asia,Asia,Western Asia
+Uzbekistan,Uzbekistan,Uzb.,Republic of Uzbekistan,29748859,15,202300.0,2017,2016,UZ,UZB,Asia,Asia,Central Asia
+Vietnam,Vietnam,Viet.,Socialist Republic of Vietnam,96160163,16,594900.0,2017,2016,VN,VNM,Asia,Asia,South-Eastern Asia
+Yemen,Yemen,Yem.,Republic of Yemen,28036829,15,73450.0,2017,2016,YE,YEM,Asia,Asia,Western Asia
+Albania,Albania,Alb.,Republic of Albania,3047987,12,33900.0,2017,2016,AL,ALB,Europe,Europe,Southern Europe
+Austria,Austria,Aust.,Republic of Austria,8754413,13,416600.0,2017,2016,AT,AUT,Europe,Europe,Western Europe
+Belarus,Belarus,Bela.,Republic of Belarus,9549747,13,165400.0,2017,2016,BY,BLR,Europe,Europe,Eastern Europe
+Belgium,Belgium,Belg.,Kingdom of Belgium,11491346,14,508600.0,2017,2016,BE,BEL,Europe,Europe,Western Europe
+Bosnia and Herz.,Bosnia and Herzegovina,B.H.,Bosnia and Herzegovina,3856181,12,42530.0,2017,2016,BA,BIH,Europe,Europe,Southern Europe
+Bulgaria,Bulgaria,Bulg.,Republic of Bulgaria,7101510,13,143100.0,2017,2016,BG,BGR,Europe,Europe,Eastern Europe
+Croatia,Croatia,Cro.,Republic of Croatia,4292095,12,94240.0,2017,2016,HR,HRV,Europe,Europe,Southern Europe
+Czechia,Czech Republic,Cz.,Czech Republic,10674723,14,350900.0,2017,2016,CZ,CZE,Europe,Europe,Eastern Europe
+Denmark,Denmark,Den.,Kingdom of Denmark,5605948,13,264800.0,2017,2016,DK,DNK,Europe,Europe,Northern Europe
+Estonia,Estonia,Est.,Republic of Estonia,1251581,12,38700.0,2017,2016,EE,EST,Europe,Europe,Northern Europe
+Finland,Finland,Fin.,Republic of Finland,5491218,13,224137.0,2017,2016,FI,FIN,Europe,Europe,Northern Europe
+France,France,Fr.,French Republic,67106161,16,2699000.0,2017,2016,FR,FRA,Europe,Europe,Western Europe
+Germany,Germany,Ger.,Federal Republic of Germany,80594017,16,3979000.0,2017,2016,DE,DEU,Europe,Europe,Western Europe
+Greece,Greece,Greece,Hellenic Republic,10768477,14,290500.0,2017,2016,GR,GRC,Europe,Europe,Southern Europe
+Hungary,Hungary,Hun.,Republic of Hungary,9850845,13,267600.0,2017,2016,HU,HUN,Europe,Europe,Eastern Europe
+Iceland,Iceland,Iceland,Republic of Iceland,339747,10,16150.0,2017,2016,IS,ISL,Europe,Europe,Northern Europe
+Ireland,Ireland,Ire.,Ireland,5011102,13,322000.0,2017,2016,IE,IRL,Europe,Europe,Northern Europe
+Italy,Italy,Italy,Italian Republic,62137802,16,2221000.0,2017,2016,IT,ITA,Europe,Europe,Southern Europe
+Kosovo,Kosovo,Kos.,Republic of Kosovo,1895250,12,18490.0,2017,2016,XK,-99,Europe,Europe,Southern Europe
+Latvia,Latvia,Lat.,Republic of Latvia,1944643,12,50650.0,2017,2016,LV,LVA,Europe,Europe,Northern Europe
+Lithuania,Lithuania,Lith.,Republic of Lithuania,2823859,12,85620.0,2017,2016,LT,LTU,Europe,Europe,Northern Europe
+Luxembourg,Luxembourg,Lux.,Grand Duchy of Luxembourg,594130,11,58740.0,2017,2016,LU,LUX,Europe,Europe,Western Europe
+Macedonia,Macedonia,Mkd.,Former Yugoslav Republic of Macedonia,2103721,12,29520.0,2017,2016,MK,MKD,Europe,Europe,Southern Europe
+Moldova,Moldova,Mda.,Republic of Moldova,3474121,12,18540.0,2017,2016,MD,MDA,Europe,Europe,Eastern Europe
+Montenegro,Montenegro,Mont.,Montenegro,642550,11,10610.0,2017,2016,ME,MNE,Europe,Europe,Southern Europe
+Netherlands,Netherlands,Neth.,Kingdom of the Netherlands,17084719,14,870800.0,2017,2016,NL,NLD,Europe,Europe,Western Europe
+Norway,Norway,Nor.,Kingdom of Norway,5320045,13,364700.0,2017,2016,NO,NOR,Europe,Europe,Northern Europe
+Poland,Poland,Pol.,Republic of Poland,38476269,15,1052000.0,2017,2016,PL,POL,Europe,Europe,Eastern Europe
+Portugal,Portugal,Port.,Portuguese Republic,10839514,14,297100.0,2017,2016,PT,PRT,Europe,Europe,Southern Europe
+Romania,Romania,Rom.,Romania,21529967,15,441000.0,2017,2016,RO,ROU,Europe,Europe,Eastern Europe
+Russia,Russian Federation,Rus.,Russian Federation,142257519,17,3745000.0,2017,2016,RU,RUS,Europe,Europe,Eastern Europe
+Serbia,Serbia,Serb.,Republic of Serbia,7111024,13,101800.0,2017,2016,RS,SRB,Europe,Europe,Southern Europe
+Slovakia,Slovakia,Svk.,Slovak Republic,5445829,13,168800.0,2017,2016,SK,SVK,Europe,Europe,Eastern Europe
+Slovenia,Slovenia,Slo.,Republic of Slovenia,1972126,12,68350.0,2017,2016,SI,SVN,Europe,Europe,Southern Europe
+Spain,Spain,Sp.,Kingdom of Spain,48958159,15,1690000.0,2017,2016,ES,ESP,Europe,Europe,Southern Europe
+Sweden,Sweden,Swe.,Kingdom of Sweden,9960487,13,498100.0,2017,2016,SE,SWE,Europe,Europe,Northern Europe
+Switzerland,Switzerland,Switz.,Swiss Confederation,8236303,13,496300.0,2017,2016,CH,CHE,Europe,Europe,Western Europe
+Ukraine,Ukraine,Ukr.,Ukraine,44033874,15,352600.0,2017,2016,UA,UKR,Europe,Europe,Eastern Europe
+United Kingdom,United Kingdom,U.K.,United Kingdom of Great Britain and Northern Ireland,64769452,16,2788000.0,2017,2016,GB,GBR,Europe,Europe,Northern Europe
+Bahamas,Bahamas,Bhs.,Commonwealth of the Bahamas,329988,10,9066.0,2017,2016,BS,BHS,North America,Americas,Caribbean
+Belize,Belize,Belize,Belize,360346,10,3088.0,2017,2016,BZ,BLZ,North America,Americas,Central America
+Canada,Canada,Can.,Canada,35623680,15,1674000.0,2017,2016,CA,CAN,North America,Americas,Northern America
+Costa Rica,Costa Rica,C.R.,Republic of Costa Rica,4930258,12,79260.0,2017,2016,CR,CRI,North America,Americas,Central America
+Cuba,Cuba,Cuba,Republic of Cuba,11147407,14,132900.0,2017,2016,CU,CUB,North America,Americas,Caribbean
+Dominican Rep.,Dominican Republic,Dom. Rep.,Dominican Republic,10734247,14,161900.0,2017,2016,DO,DOM,North America,Americas,Caribbean
+El Salvador,El Salvador,El. S.,Republic of El Salvador,6172011,13,54790.0,2017,2016,SV,SLV,North America,Americas,Central America
+Greenland,Greenland,Grlnd.,Greenland,57713,8,2173.0,2017,2015,GL,GRL,North America,Americas,Northern America
+Guatemala,Guatemala,Guat.,Republic of Guatemala,15460732,14,131800.0,2017,2016,GT,GTM,North America,Americas,Central America
+Haiti,Haiti,Haiti,Republic of Haiti,10646714,14,19340.0,2017,2016,HT,HTI,North America,Americas,Caribbean
+Honduras,Honduras,Hond.,Republic of Honduras,9038741,13,43190.0,2017,2016,HN,HND,North America,Americas,Central America
+Jamaica,Jamaica,Jam.,Jamaica,2990561,12,25390.0,2017,2016,JM,JAM,North America,Americas,Caribbean
+Mexico,Mexico,Mex.,United Mexican States,124574795,17,2307000.0,2017,2016,MX,MEX,North America,Americas,Central America
+Nicaragua,Nicaragua,Nic.,Republic of Nicaragua,6025951,13,33550.0,2017,2016,NI,NIC,North America,Americas,Central America
+Panama,Panama,Pan.,Republic of Panama,3753142,12,93120.0,2017,2016,PA,PAN,North America,Americas,Central America
+Puerto Rico,Puerto Rico,P.R.,Commonwealth of Puerto Rico,3351827,12,131000.0,2017,2016,PR,PRI,North America,Americas,Caribbean
+Trinidad and Tobago,Trinidad and Tobago,Tr.T.,Republic of Trinidad and Tobago,1218208,12,43570.0,2017,2016,TT,TTO,North America,Americas,Caribbean
+United States of America,United States,U.S.A.,United States of America,326625791,17,18560000.0,2017,2016,US,USA,North America,Americas,Northern America
+Australia,Australia,Auz.,Commonwealth of Australia,23232413,15,1189000.0,2017,2016,AU,AUS,Oceania,Oceania,Australia and New Zealand
+Fiji,Fiji,Fiji,Republic of Fiji,920938,11,8374.0,2017,2016,FJ,FJI,Oceania,Oceania,Melanesia
+New Caledonia,New Caledonia,New C.,New Caledonia,279070,10,10770.0,2017,2016,NC,NCL,Oceania,Oceania,Melanesia
+New Zealand,New Zealand,N.Z.,New Zealand,4510327,12,174800.0,2017,2016,NZ,NZL,Oceania,Oceania,Australia and New Zealand
+Papua New Guinea,Papua New Guinea,P.N.G.,Independent State of Papua New Guinea,6909701,13,28020.0,2017,2016,PG,PNG,Oceania,Oceania,Melanesia
+Solomon Is.,Solomon Islands,S. Is.,,647581,11,1198.0,2017,2016,SB,SLB,Oceania,Oceania,Melanesia
+Vanuatu,Vanuatu,Van.,Republic of Vanuatu,282814,10,723.0,2017,2016,VU,VUT,Oceania,Oceania,Melanesia
+Fr. S. Antarctic Lands,French Southern and Antarctic Lands,Fr. S.A.L.,Territory of the French Southern and Antarctic Lands,140,1,16.0,2017,2016,TF,ATF,Seven seas (open ocean),Seven seas (open ocean),Seven seas (open ocean)
+Argentina,Argentina,Arg.,Argentine Republic,44293293,15,879400.0,2017,2016,AR,ARG,South America,Americas,South America
+Bolivia,Bolivia,Bolivia,Plurinational State of Bolivia,11138234,14,78350.0,2017,2016,BO,BOL,South America,Americas,South America
+Brazil,Brazil,Brazil,Federative Republic of Brazil,207353391,17,3081000.0,2017,2016,BR,BRA,South America,Americas,South America
+Chile,Chile,Chile,Republic of Chile,17789267,14,436100.0,2017,2016,CL,CHL,South America,Americas,South America
+Colombia,Colombia,Col.,Republic of Colombia,47698524,15,688000.0,2017,2016,CO,COL,South America,Americas,South America
+Ecuador,Ecuador,Ecu.,Republic of Ecuador,16290913,14,182400.0,2017,2016,EC,ECU,South America,Americas,South America
+Falkland Is.,Falkland Islands,Flk. Is.,Falkland Islands,2931,4,281.8,2014,2012,FK,FLK,South America,Americas,South America
+Guyana,Guyana,Guy.,Co-operative Republic of Guyana,737718,11,6093.0,2017,2016,GY,GUY,South America,Americas,South America
+Paraguay,Paraguay,Para.,Republic of Paraguay,6943739,13,64670.0,2017,2016,PY,PRY,South America,Americas,South America
+Peru,Peru,Peru,Republic of Peru,31036656,15,410400.0,2017,2016,PE,PER,South America,Americas,South America
+Suriname,Suriname,Sur.,Republic of Suriname,591919,11,8547.0,2017,2016,SR,SUR,South America,Americas,South America
+Uruguay,Uruguay,Ury.,Oriental Republic of Uruguay,3360148,12,73250.0,2017,2016,UY,URY,South America,Americas,South America
+Venezuela,Venezuela,Ven.,Bolivarian Republic of Venezuela,31304016,15,468600.0,2017,2016,VE,VEN,South America,Americas,South America
